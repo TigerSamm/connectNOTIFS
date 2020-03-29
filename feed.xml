@@ -2,16 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>connectNOTIFS</title>
-    <link></link>
+    <link>http://pangeatechs.boards.net</link>
     <description>Notifications for 'CONNECT by Pangea'</description>
-    <language>English</language>
-     <image>
-      <title>connectNOTIFS</title>
-      <link></link>
-      <url></url>
-      <width></width>
-      <height></height>
-    </image>
+    <language>en-gb</language>
     <item>
       <title>Welcome!</title>
       <pubDate>29/03/2020</pubDate>
